@@ -1,0 +1,1 @@
+Removes RSS icon and adds new ones.

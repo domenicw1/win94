@@ -1,0 +1,1 @@
+Binds together all option tweaks (display, theme) to a single Control Panel in the style of Windows 95

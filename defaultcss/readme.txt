@@ -1,0 +1,1 @@
+css theme that makes windows 93 look pixel-perfect to windows 95 (apart from colors)

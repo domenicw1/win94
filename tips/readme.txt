@@ -1,0 +1,1 @@
+Tips application similar to Windows 95, that runs on boot.

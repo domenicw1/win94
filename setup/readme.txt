@@ -1,0 +1,1 @@
+Installation for Windows 94, goes through win95-like setup and lets you select what tweaks to install

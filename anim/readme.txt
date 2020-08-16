@@ -1,0 +1,1 @@
+Lets you select different animation packs for window opening and closing.

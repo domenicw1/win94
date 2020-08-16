@@ -1,0 +1,1 @@
+Most joke apps included by default with Windows 93 will not be installed by default on boot when this tweak is installed. "App store" that lets you install and uninstall the default apps.

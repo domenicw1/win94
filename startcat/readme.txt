@@ -1,0 +1,1 @@
+Adds XP-like category to start menu. [don't use categories from le._apps, there are too many]

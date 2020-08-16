@@ -1,0 +1,1 @@
+"Display Options" similar to Windows 95 that let you set color depth (which applies a svg filter to make it 16-bit)
